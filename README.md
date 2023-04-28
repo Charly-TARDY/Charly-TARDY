@@ -1,12 +1,16 @@
 # Hi, i'm Charly !
 
-Hi there,
+My name is Charly TARDY, and I'm thrilled to welcome you to my GitHub profile. I'm a 29-year-old software developer with a passion for building awesome things with code.
 
-My name is Charly TARDY and I'm 29 years old. Before diving into programming, I have worked in various different jobs, such as a lumberjack.
+Before I got into programming, I had a bit of an unconventional career path. I've worked in many different fields, including as a lumberjack! But even with all these experiences, I felt like something was missing. And that's when I discovered programming.
 
-Currently, I'm pursuing a degree in programming at Ecole 42 and honing my skills through various projects.
+I'm currently studying at Ecole 42, which is one of the world's top coding schools, and I'm loving every moment of it. It's challenging, exciting, and rewarding all at the same time. And through my coursework, I've had the opportunity to work on some really cool projects.
 
-If you'd like to check out my work, you can find my GitHub profile at [insert GitHub link here]. Thank you for taking the time to get to know me a bit better.
+My passion for programming extends to a variety of languages and technologies. I'm proficient in C, C++, and more.
+
+But enough about me – let's talk about you! Whether you're a fellow developer, a prospective employer, or just someone who stumbled upon my profile, I'd love to connect with you. If you're interested in learning more about my work or collaborating on a project, feel free to drop me a line.
+
+Thanks for taking the time to get to know me a bit better. Let's keep in touch!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
