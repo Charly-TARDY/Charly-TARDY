@@ -50,4 +50,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZarIey&show_icons=true&theme=synthwave&locale=en" alt="ZarIey" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salvatorespina&theme=highcontrast" alt="salvatorespina" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZarIey&theme=highcontrast" alt="ZarIey" /></p>
