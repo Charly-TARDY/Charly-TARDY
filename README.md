@@ -1,6 +1,12 @@
 # Hi, i'm Charly !
 
+Hi there,
 
+My name is Charly TARDY and I'm 29 years old. Before diving into programming, I have worked in various different jobs, such as a lumberjack.
+
+Currently, I'm pursuing a degree in programming at Ecole 42 and honing my skills through various projects.
+
+If you'd like to check out my work, you can find my GitHub profile at [insert GitHub link here]. Thank you for taking the time to get to know me a bit better.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
