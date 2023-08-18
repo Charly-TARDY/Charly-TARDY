@@ -41,8 +41,8 @@ Thanks for taking the time to get to know me a bit better. Let's keep in touch!
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Charly-TARDY&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="ZarIey" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Charly-TARDY&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="Charly" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Charly-TARDY&show_icons=true&theme=synthwave&locale=en" alt="ZarIey" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Charly-TARDY&show_icons=true&theme=synthwave&locale=en" alt="Charly" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Charly-TARDY&theme=highcontrast" alt="ZarIey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Charly-TARDY&theme=highcontrast" alt="Charly" /></p>
